@@ -80,7 +80,7 @@ Risks & Considerations:
 How to Use:
 -----------
 1. **Run AutoPauseMiddleware as Administrator.**
-2. Enter the exact or partial title of the game window (as it appears in the title bar).
+2. Enter the exact title of the game window (as it appears in the title bar) like for GTA V it's 'Grand Theft Auto V'.
 3. Choose your pause method:
    - [ ] ESC key
    - [ ] Other key (e.g., F5, SPACE, etc.)
@@ -106,10 +106,10 @@ Technical Stack:
 
 Example Use Case:
 ------------------
-You're playing an emulated game in PCSX2, which doesn’t pause when you open Cheat Engine. 
+You're playing an emulated game in GTA V, which doesn’t pause when you open Cheat Engine. 
 Manually pausing doesn't work and the emulator keeps running in the background. With 
 AutoPauseMiddleware:
-- You enter “PCSX2” as the window title.
+- You enter “GTA V” as the window title.
 - Select “NtSuspendProcess”.
 - Once you Alt-Tab to Cheat Engine, the emulator process is instantly frozen.
 - After modifying memory values, switching back resumes the game as if nothing happened.
