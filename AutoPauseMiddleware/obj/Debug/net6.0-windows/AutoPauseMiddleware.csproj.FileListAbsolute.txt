@@ -1,0 +1,14 @@
+c:\Users\Anmol\Downloads\AutoPauseMiddleware\bin\Debug\net6.0-windows\AutoPauseMiddleware.exe
+c:\Users\Anmol\Downloads\AutoPauseMiddleware\bin\Debug\net6.0-windows\AutoPauseMiddleware.deps.json
+c:\Users\Anmol\Downloads\AutoPauseMiddleware\bin\Debug\net6.0-windows\AutoPauseMiddleware.runtimeconfig.json
+c:\Users\Anmol\Downloads\AutoPauseMiddleware\bin\Debug\net6.0-windows\AutoPauseMiddleware.dll
+c:\Users\Anmol\Downloads\AutoPauseMiddleware\bin\Debug\net6.0-windows\AutoPauseMiddleware.pdb
+c:\Users\Anmol\Downloads\AutoPauseMiddleware\obj\Debug\net6.0-windows\AutoPauseMiddleware.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Anmol\Downloads\AutoPauseMiddleware\obj\Debug\net6.0-windows\AutoPauseMiddleware.AssemblyInfoInputs.cache
+c:\Users\Anmol\Downloads\AutoPauseMiddleware\obj\Debug\net6.0-windows\AutoPauseMiddleware.AssemblyInfo.cs
+c:\Users\Anmol\Downloads\AutoPauseMiddleware\obj\Debug\net6.0-windows\AutoPauseMiddleware.csproj.CoreCompileInputs.cache
+c:\Users\Anmol\Downloads\AutoPauseMiddleware\obj\Debug\net6.0-windows\AutoPauseMiddleware.dll
+c:\Users\Anmol\Downloads\AutoPauseMiddleware\obj\Debug\net6.0-windows\refint\AutoPauseMiddleware.dll
+c:\Users\Anmol\Downloads\AutoPauseMiddleware\obj\Debug\net6.0-windows\AutoPauseMiddleware.pdb
+c:\Users\Anmol\Downloads\AutoPauseMiddleware\obj\Debug\net6.0-windows\AutoPauseMiddleware.genruntimeconfig.cache
+c:\Users\Anmol\Downloads\AutoPauseMiddleware\obj\Debug\net6.0-windows\ref\AutoPauseMiddleware.dll
