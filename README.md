@@ -7,6 +7,13 @@ when the user switches focus to Cheat Engine (or other memory editors) for safe 
 memory editing. This tool ensures the game does not progress or change state while you are 
 inspecting or modifying memory values — mimicking Cheat Engine’s own pause functionality.
 
+## Logo
+![Logo](https://github.com/user-attachments/assets/3fe66055-d20a-4c09-a668-c762f1ceaaa9)
+
+## Tool Image
+![image](https://github.com/user-attachments/assets/bc7631a5-6f56-4abb-b7d3-8bfbf6643ac0)
+
+
 Why It’s Needed:
 ----------------
 Many games (especially emulators, sandboxed apps, or fullscreen games) don’t support native 
