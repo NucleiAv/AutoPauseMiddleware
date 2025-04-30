@@ -48,8 +48,8 @@ The application evaluates scenarios in the following order:
 | --------------------------------------- | ----------------------- |
 | ESC supported                           | Sends ESC               |
 | ESC not supported but another key works | Sends alternate key     |
-| No key works, user agrees to suspend    | Uses `NtSuspendProcess` |
-| No key works, user says no              | No pause is done at all |
+| No key works or no support for keyboard pausing, user agrees to suspend    | Uses `NtSuspendProcess` |
+| No key works or no support for keyboard pausing, user says no              | No pause is done at all |
 
 What is NtSuspendProcess?
 ---------------------------
