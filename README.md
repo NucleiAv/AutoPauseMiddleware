@@ -111,8 +111,8 @@ Example Use Case:
 You're playing an emulated game in GTA V, which doesn’t pause when you open Cheat Engine. 
 Manually pausing doesn't work and the emulator keeps running in the background. With 
 AutoPauseMiddleware:
-- You enter “GTA V” as the window title.
-- Select “NtSuspendProcess”.
+- You enter “Grand Theft Auto V” as the window title.
+- Select “Custome Key” = P or "ESC option".
 - Once you Alt-Tab to Cheat Engine, the emulator process is instantly frozen.
 - After modifying memory values, switching back resumes the game as if nothing happened.
 
