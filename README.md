@@ -64,7 +64,7 @@ Unlike traditional input simulation, suspending a process **halts it at the OS l
 
 When to Use NtSuspendProcess?
 -------------------------------
-✅✅ **Essential when you need a guaranteed freeze regardless of the UI.**  
+✅ Essential when you need a guaranteed freeze regardless of the UI.  
 ✅ Useful for games/apps that:
 - Don’t support pausing
 - Run in fullscreen-exclusive mode
@@ -112,7 +112,7 @@ You're playing an emulated game in GTA V, which doesn’t pause when you open Ch
 Manually pausing doesn't work and the emulator keeps running in the background. With 
 AutoPauseMiddleware:
 - You enter “Grand Theft Auto V” as the window title.
-- Select “Custome Key” = P or "ESC option".
+- Select “Custom Key” = P or "ESC option".
 - Once you Alt-Tab to Cheat Engine, the emulator process is instantly frozen.
 - After modifying memory values, switching back resumes the game as if nothing happened.
 
